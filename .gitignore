@@ -9,4 +9,5 @@ yarn-error.log*
 .pnp.js
 
 .vscode/*
-.DS_Store
+section2/.DS_Store
+/section2/node_modules

@@ -23,10 +23,3 @@ function func4(): never {
 }
 
 let anyVar: any;
-
-let a: never;
-a = 1;
-a = {};
-a = "";
-a = undefined;
-a = null;
