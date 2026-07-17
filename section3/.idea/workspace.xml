@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fdcda52d-6ea7-426e-a976-6e8d87db4ebb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000311588173127" />
+      <entry key="MS500" value="1.125705756911839" />
+      <entry key="S2" value="1.7452084661124305" />
+      <entry key="S5" value="2.638072763546065" />
+      <entry key="S10" value="3.6506466969560734" />
+      <entry key="S30" value="7.422596142917968" />
+      <entry key="S60" value="14.106607548563547" />
+      <entry key="M2" value="27.793097135224887" />
+      <entry key="M5" value="56.9460445470921" />
+      <entry key="M10" value="85.58516123386076" />
+      <entry key="M15" value="111.90648592874327" />
+      <entry key="M30" value="184.87256099927356" />
+      <entry key="H1" value="281.4241779070946" />
+      <entry key="H2" value="369.530732302977" />
+      <entry key="H4" value="436.5920918514087" />
+      <entry key="D1" value="686.5043188785403" />
+      <entry key="W1" value="859.2933234734126" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.1598674720183432E-84" />
+      <entry key="S2" value="1.0377723426159524E-21" />
+      <entry key="S5" value="4.040553952876697E-9" />
+      <entry key="S10" value="6.360593679934296E-5" />
+      <entry key="S30" value="0.04816098027325037" />
+      <entry key="S60" value="0.39939735094355927" />
+      <entry key="M2" value="1.4976138128361007" />
+      <entry key="M5" value="3.699497751026433" />
+      <entry key="M10" value="5.527000206163189" />
+      <entry key="M15" value="7.118528108977631" />
+      <entry key="M30" value="11.476340361703341" />
+      <entry key="H1" value="16.97474907289711" />
+      <entry key="H2" value="21.75661808726442" />
+      <entry key="H4" value="25.469139837842345" />
+      <entry key="D1" value="46.96105414098813" />
+      <entry key="W1" value="64.001278260829" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.033729157557986084" />
+      <entry key="MS500" value="0.5877129248098142" />
+      <entry key="S2" value="1.4870793015267645" />
+      <entry key="S5" value="2.468761665287448" />
+      <entry key="S10" value="3.5368793293041794" />
+      <entry key="S30" value="7.4066983459555" />
+      <entry key="S60" value="14.448761705390751" />
+      <entry key="M2" value="29.232353952309875" />
+      <entry key="M5" value="60.59616420488689" />
+      <entry key="M10" value="91.07511204350277" />
+      <entry key="M15" value="118.99278522827741" />
+      <entry key="M30" value="196.32215527518238" />
+      <entry key="H1" value="298.3784269781784" />
+      <entry key="H2" value="391.27382800771113" />
+      <entry key="H4" value="462.05320826229774" />
+      <entry key="D1" value="733.4631491197999" />
+      <entry key="W1" value="923.2941920072013" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3GZ2EeRSsNd6pkevUgCJkhvtO6E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.chapter3.ts.executor": "Run",
+    "Node.js.chapter6.ts.executor": "Run",
+    "Node.js.index.ts.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "ts.external.directory.path": "/Users/imjiyu/Documents/GitHub/onebite-typescript/section3/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.26222.58" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdcda52d-6ea7-426e-a976-6e8d87db4ebb" name="Changes" comment="" />
+      <created>1768178438930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768178438930</updated>
+      <workItem from="1784164660903" duration="17036000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
