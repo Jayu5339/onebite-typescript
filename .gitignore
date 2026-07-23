@@ -11,3 +11,4 @@ yarn-error.log*
 .vscode/*
 section2/.DS_Store
 /section2/node_modules
+.DS_Store
